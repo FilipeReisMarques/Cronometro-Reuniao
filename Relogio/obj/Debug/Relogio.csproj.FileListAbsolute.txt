@@ -1,0 +1,19 @@
+E:\Projetos VB\Relogio\Relogio\bin\Debug\Relogio.exe.config
+E:\Projetos VB\Relogio\Relogio\bin\Debug\Relogio.exe
+E:\Projetos VB\Relogio\Relogio\bin\Debug\Relogio.pdb
+E:\Projetos VB\Relogio\Relogio\obj\Debug\Relogio.csprojAssemblyReference.cache
+E:\Projetos VB\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+E:\Projetos VB\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+E:\Projetos VB\Relogio\Relogio\obj\Debug\Relogio.exe
+E:\Projetos VB\Relogio\Relogio\obj\Debug\Relogio.pdb
+E:\Projetos VB\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+F:\projetos\Relogio\Relogio\bin\Debug\Relogio.exe.config
+F:\projetos\Relogio\Relogio\bin\Debug\Relogio.exe
+F:\projetos\Relogio\Relogio\bin\Debug\Relogio.pdb
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.csprojAssemblyReference.cache
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.exe
+F:\projetos\Relogio\Relogio\obj\Debug\Relogio.pdb
